@@ -1,0 +1,16 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# sadasd
+#
+DEF sadasd U 0 40 Y Y 1 F N
+F0 "U" 0 -500 60 H V C CNN
+F1 "sadasd" 0 500 60 H V C CNN
+F2 "" -50 600 60 H I C CNN
+F3 "" -50 600 60 H I C CNN
+DRAW
+S -200 -400 250 400 0 1 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library
