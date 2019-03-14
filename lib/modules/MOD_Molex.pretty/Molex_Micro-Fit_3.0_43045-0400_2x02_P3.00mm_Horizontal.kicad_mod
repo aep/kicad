@@ -1,4 +1,4 @@
-(module Molex_Micro-Fit_3.0_43045-0400_2x02_P3.00mm_Horizontal (layer F.Cu) (tedit 5C78192E)
+(module Molex_Micro-Fit_3.0_43045-0400_2x02_P3.00mm_Horizontal (layer F.Cu) (tedit 5C7D4C5C)
   (descr "Molex Micro-Fit 3.0 Connector System, 43045-0400 (compatible alternatives: 43045-0401, 43045-0402), 2 Pins per row (https://www.molex.com/pdm_docs/sd/430450200_sd.pdf), generated with kicad-footprint-generator")
   (tags "connector Molex Micro-Fit_3.0 top entry")
   (fp_text reference J2 (at 1.5 -7.32) (layer F.SilkS)
@@ -43,7 +43,7 @@
     (rotate (xyz 0 0 0))
   )
   (model /home/aep/kicad/lib/3d/430450400.stp
-    (offset (xyz 1.5 4 3.5))
+    (offset (xyz 1.5 4 3.885))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 -180 0))
   )
