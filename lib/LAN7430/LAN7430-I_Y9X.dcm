@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LAN7430-I_Y9X
+D Ethernet ICs PCIe 3.1 2.5GT/s to 10/100/1000 Ethernet Bridge. Industrial temp
+K
+F https://componentsearchengine.com/Datasheets/1/LAN7430-I_Y9X.pdf
+$ENDCMP
+#
+#End Doc Library

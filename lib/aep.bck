@@ -1,0 +1,109 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LDK130-10_SOT23_SOT353
+D 300mA low dropout linear regulator, low quiescent current very, low noise, shutdown pin, 1.0V fixed positive output, SOT-23-5/SOT-353-5/SC-70-5
+K linear regulator ldo fixed positive low noise low quienscent current
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/29/10/f7/87/2f/66/47/f4/DM00076097.pdf/files/DM00076097.pdf/jcr:content/translations/en.DM00076097.pdf
+$ENDCMP
+#
+$CMP LDK130-12_SOT23_SOT353
+D 300mA low dropout linear regulator, low quiescent current very, low noise, shutdown pin, 1.2V fixed positive output, SOT-23-5/SOT-353-5/SC-70-5
+K linear regulator ldo fixed positive low noise low quienscent current
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/29/10/f7/87/2f/66/47/f4/DM00076097.pdf/files/DM00076097.pdf/jcr:content/translations/en.DM00076097.pdf
+$ENDCMP
+#
+$CMP LDK130-15_SOT23_SOT353
+D 300mA low dropout linear regulator, low quiescent current very, low noise, shutdown pin, 1.5V fixed positive output, SOT-23-5/SOT-353-5/SC-70-5
+K linear regulator ldo fixed positive low noise low quienscent current
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/29/10/f7/87/2f/66/47/f4/DM00076097.pdf/files/DM00076097.pdf/jcr:content/translations/en.DM00076097.pdf
+$ENDCMP
+#
+$CMP LDK130-18_SOT23_SOT353
+D 300mA low dropout linear regulator, low quiescent current very, low noise, shutdown pin, 1.8V fixed positive output, SOT-23-5/SOT-353-5/SC-70-5
+K linear regulator ldo fixed positive low noise low quienscent current
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/29/10/f7/87/2f/66/47/f4/DM00076097.pdf/files/DM00076097.pdf/jcr:content/translations/en.DM00076097.pdf
+$ENDCMP
+#
+$CMP LDK130-25_SOT23_SOT353
+D 300mA low dropout linear regulator, low quiescent current very, low noise, shutdown pin, 2.5V fixed positive output, SOT-23-5/SOT-353-5/SC-70-5
+K linear regulator ldo fixed positive low noise low quienscent current
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/29/10/f7/87/2f/66/47/f4/DM00076097.pdf/files/DM00076097.pdf/jcr:content/translations/en.DM00076097.pdf
+$ENDCMP
+#
+$CMP LDK130-29_SOT23_SOT353
+D 300mA low dropout linear regulator, low quiescent current very, low noise, shutdown pin, 2.9V fixed positive output, SOT-23-5/SOT-353-5/SC-70-5
+K linear regulator ldo fixed positive low noise low quienscent current
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/29/10/f7/87/2f/66/47/f4/DM00076097.pdf/files/DM00076097.pdf/jcr:content/translations/en.DM00076097.pdf
+$ENDCMP
+#
+$CMP LDK130-30_SOT23_SOT353
+D 300mA low dropout linear regulator, low quiescent current very, low noise, shutdown pin, 3.0V fixed positive output, SOT-23-5/SOT-353-5/SC-70-5
+K linear regulator ldo fixed positive low noise low quienscent current
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/29/10/f7/87/2f/66/47/f4/DM00076097.pdf/files/DM00076097.pdf/jcr:content/translations/en.DM00076097.pdf
+$ENDCMP
+#
+$CMP LDK130-32_SOT23_SOT353
+D 300mA low dropout linear regulator, low quiescent current very, low noise, shutdown pin, 3.2V fixed positive output, SOT-23-5/SOT-353-5/SC-70-5
+K linear regulator ldo fixed positive low noise low quienscent current
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/29/10/f7/87/2f/66/47/f4/DM00076097.pdf/files/DM00076097.pdf/jcr:content/translations/en.DM00076097.pdf
+$ENDCMP
+#
+$CMP LDK130-33_SOT23_SOT353
+D 300mA low dropout linear regulator, low quiescent current very, low noise, shutdown pin, 3.3V fixed positive output, SOT-23-5/SOT-353-5/SC-70-5
+K linear regulator ldo fixed positive low noise low quienscent current
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/29/10/f7/87/2f/66/47/f4/DM00076097.pdf/files/DM00076097.pdf/jcr:content/translations/en.DM00076097.pdf
+$ENDCMP
+#
+$CMP LED_Dual_CAAC
+D Dual LED, cathodes on pins 2 and 4
+K LED diode bicolor dual
+F ~
+$ENDCMP
+#
+$CMP MCP2515-QFN
+D Stand-Alone CAN Controller with SPI Interface and integated Transceiver, SSOP-28
+K CAN Controller SPI Transceiver
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005282B.pdf
+$ENDCMP
+#
+$CMP MCP25625-QFN
+D Stand-Alone CAN Controller with SPI Interface and integated Transceiver, SSOP-28
+K CAN Controller SPI Transceiver
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005282B.pdf
+$ENDCMP
+#
+$CMP PE-1210ACC
+D Coupled inductor with ferrite core, small symbol
+K inductor choke coil reactor magnetic coupled
+F ~
+$ENDCMP
+#
+$CMP SW_Push
+D Push button switch, generic, two pins
+K switch normally-open pushbutton push-button
+F ~
+$ENDCMP
+#
+$CMP TLV767
+D TLV767 1-A, 16-V Precision Linear Voltage Regulator
+K LDO
+F http://www.ti.com/lit/ds/symlink/tlv767.pdf
+$ENDCMP
+#
+$CMP ldl212-so8
+D 300mA low dropout linear regulator, low quiescent current very, low noise, shutdown pin, 0.8V fixed positive output, SOT-23-5/SOT-353-5/SC-70-5
+K linear regulator ldo fixed positive low noise low quienscent current
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/29/10/f7/87/2f/66/47/f4/DM00076097.pdf/files/DM00076097.pdf/jcr:content/translations/en.DM00076097.pdf
+$ENDCMP
+#
+$CMP nRF52840
+D Multiprotocol BLE/ANT/2.4 GHz/802.15.4 Cortex-M4F SoC, AQFN-73
+K MCU, ARM, BLE, ANT, 2.4GHz, 802.15.4
+F http://infocenter.nordicsemi.com/topic/com.nordic.infocenter.nrf52/dita/nrf52/chips/nrf52840.html
+$ENDCMP
+#
+$CMP nanosim
+K PROD_ID:CONN-08536
+$ENDCMP
+#
+#End Doc Library
