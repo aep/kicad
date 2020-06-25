@@ -1,4 +1,4 @@
-21524211107171982
+21540165700009516
 Aesthetics
 BREADBOARD_SPACING
 BREADBOARD SPACING
@@ -91340,12 +91340,40 @@ ACM70V
 4
 4
 aep
+B3QFN
+
+
+0
+16
+15
+aep
 BL654
 
 
 0
 72
 72
+aep
+BatteryHolder_Keystone_2468_2xAAA
+2xAAA cell battery holder, Keystone P/N 2468, http://www.keyelco.com/product-pdf.cfm?p=1033
+AAA battery cell holder
+0
+2
+2
+aep
+BatteryHolder_Keystone_2468_2xAAA_MIDDLE_HOLE
+2xAAA cell battery holder, Keystone P/N 2468, http://www.keyelco.com/product-pdf.cfm?p=1033
+AAA battery cell holder
+0
+2
+2
+aep
+CE-Logo_4.25x3mm_SilkScreen
+CE marking
+Logo CE certification
+0
+0
+0
 aep
 DF65-3P-1.7V
 
@@ -91374,6 +91402,13 @@ PE-1210ACC
 0
 4
 4
+aep
+RoHS-Logo_3mm_SilkScreen
+Restriction of Hazardous Substances Directive Logo
+Logo RoHS
+0
+0
+0
 aep
 SCREW_TAB_M3
 PLATED THROUGH HOLE - 2MM
@@ -91409,6 +91444,27 @@ http://www.ti.com/lit/ds/symlink/tpd2eusb30.pdf
 0
 3
 3
+aep
+USON-10_2.5x1.0mm_P0.5mm_HAXED_MIDDLE
+USON-10 2.5x1.0mm_ Pitch 0.5mm http://www.ti.com/lit/ds/symlink/tpd4e02b04.pdf
+USON-10 2.5x1.0mm Pitch 0.5mm
+0
+10
+10
+aep
+WEEE-Logo_2.1x3mm_SilkScreen
+Waste Electrical and Electronic Equipment Directive
+Logo WEEE
+0
+0
+0
+aep
+WEEE-Logo_4mm_SilkScreen
+Waste Electrical and Electronic Equipment Directive
+Logo WEEE
+0
+0
+0
 aep
 WSON-12-1EP_3.1x3.1mm_P0.5mm_EP2.5x1.7_ThermalVias
 WSON-12 http://www.ti.com/lit/ds/symlink/lm27762.pdf
@@ -94697,8 +94753,15 @@ JAE_DX07B024JJ1R1500
 
 
 0
-34
-28
+30
+25
+lib
+TRANS_STL6P3LLH6
+
+
+0
+5
+5
 lib
 USB-C-DX07S
 
@@ -94930,6 +94993,13 @@ WS2813-CONN
 0
 4
 4
+recom
+CONV_RPX-2.5-R
+
+
+0
+9
+9
 takigama
 3_Pin_Solder_Bridge
 

@@ -6,12 +6,6 @@ K USB UART bridge
 F https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf
 $ENDCMP
 #
-$CMP LED_Dual_CAAC
-D Dual LED, cathodes on pins 2 and 4
-K LED diode bicolor dual
-F ~
-$ENDCMP
-#
 $CMP MCP2515-QFN
 D Stand-Alone CAN Controller with SPI Interface and integated Transceiver, SSOP-28
 K CAN Controller SPI Transceiver
@@ -40,6 +34,16 @@ $CMP TLV767
 D TLV767 1-A, 16-V Precision Linear Voltage Regulator
 K LDO
 F http://www.ti.com/lit/ds/symlink/tlv767.pdf
+$ENDCMP
+#
+$CMP TPD4E02B04DQA
+D 4-Channel ESD Protection Diode for USB Type-C and HDMI 2.0, USON-10
+K ESD protection USB HDMI
+F http://www.ti.com/lit/ds/symlink/tpd4e02b04.pdf
+$ENDCMP
+#
+$CMP TPSM53602
+F https://www.ti.com/lit/ds/snvsbd0/snvsbd0.pdf
 $ENDCMP
 #
 $CMP nRF52840

@@ -1,0 +1,33 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# RPX-2.5-R
+#
+DEF RPX-2.5-R U 0 40 Y Y 1 L N
+F0 "U" -400 450 50 H V L BNN
+F1 "RPX-2.5-R" -400 -600 50 H V L BNN
+F2 "CONV_RPX-2.5-R" 0 0 50 H I L BNN
+F3 "0" 0 0 50 H I L BNN
+F4 "2.1mm" 0 0 50 H I L BNN
+F5 "Manufacturer Recommendations" 0 0 50 H I L BNN
+F6 "Recom" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 -400 400 -400 -500 N
+P 2 0 0 10 -400 -500 400 -500 N
+P 2 0 0 10 400 -500 400 400 N
+P 2 0 0 10 400 400 -400 400 N
+X VIN 2 -600 300 200 R 40 40 0 0 I 
+X VOUT 3 600 300 200 L 40 40 0 0 O 
+X GND 8 600 -400 200 L 40 40 0 0 W 
+X DNC 6 600 -200 200 L 40 40 0 0 N 
+X DNC 7 600 -200 200 L 40 40 0 0 N 
+X FB 1 -600 100 200 R 40 40 0 0 I 
+X SW 4 -600 -200 200 R 40 40 0 0 I 
+X SW 5 -600 -200 200 R 40 40 0 0 I 
+X CTRL 9 -600 0 200 R 40 40 0 0 I 
+ENDDRAW
+ENDDEF
+#
+# End Library
