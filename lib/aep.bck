@@ -6,33 +6,15 @@ K USB UART bridge
 F https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf
 $ENDCMP
 #
+$CMP EMI_Filter_CommonMode
+D EMI 2-inductor common mode filter
+K EMI common mode filter
+F ~
+$ENDCMP
+#
 $CMP EMI_Filter_CommonMode_1243
 D EMI 2-inductor filter
 K EMI filter
-F ~
-$ENDCMP
-#
-$CMP EMI_Filter_CommonMode_copy
-D EMI 2-inductor common mode filter
-K EMI common mode filter
-F ~
-$ENDCMP
-#
-$CMP EMI_Filter_CommonMode_copy1
-D EMI 2-inductor common mode filter
-K EMI common mode filter
-F ~
-$ENDCMP
-#
-$CMP EMI_Filter_LL_1243_copy
-D EMI 2-inductor filter
-K EMI filter
-F ~
-$ENDCMP
-#
-$CMP LED_Dual_CAAC
-D Dual LED, cathodes on pins 2 and 4
-K LED diode bicolor dual
 F ~
 $ENDCMP
 #
