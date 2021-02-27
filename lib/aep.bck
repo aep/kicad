@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 0826-1X1T-GH-F
+D RJ45 Magjack  1000BASE-T PoE+ Bel Magnetics
+F D
+$ENDCMP
+#
 $CMP CP2102N-A02-GQFN20
 D USB to UART master bridge, QFN-24
 K USB UART bridge
@@ -30,6 +35,12 @@ K CAN Controller SPI Transceiver
 F http://ww1.microchip.com/downloads/en/DeviceDoc/20005282B.pdf
 $ENDCMP
 #
+$CMP MYZR-RK3399_CB314
+D MXM3.0 connector
+K MXM connector
+F ~
+$ENDCMP
+#
 $CMP PE-1210ACC
 D Coupled inductor with ferrite core, small symbol
 K inductor choke coil reactor magnetic coupled
@@ -55,7 +66,7 @@ F http://www.ti.com/lit/ds/symlink/tpd4e02b04.pdf
 $ENDCMP
 #
 $CMP TPSM53602
-F https://www.ti.com/lit/ds/snvsbd0/snvsbd0.pdf
+F https://www.ti.com/lit/gpn/tpsm53602
 $ENDCMP
 #
 $CMP nRF52840

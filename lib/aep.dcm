@@ -2,13 +2,17 @@ EESchema-DOCLIB  Version 2.0
 #
 $CMP 0826-1X1T-GH-F
 D RJ45 Magjack  1000BASE-T PoE+ Bel Magnetics
-F D
 $ENDCMP
 #
 $CMP CP2102N-A02-GQFN20
 D USB to UART master bridge, QFN-24
 K USB UART bridge
 F https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf
+$ENDCMP
+#
+$CMP EG6201
+D Slide Switches 6P2T R/A PC MOUNT
+F https://componentsearchengine.com/Datasheets/1/EG6201.pdf
 $ENDCMP
 #
 $CMP EMI_Filter_CommonMode
